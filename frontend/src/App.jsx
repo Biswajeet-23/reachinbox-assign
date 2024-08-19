@@ -6,8 +6,7 @@ import Details from './Comps/Details'
 function App() {
   return (
     <div>
-      {/* <Login/> */}
-      {/* <Onebox/> */}
+      <Login/>
       <Details/>
     </div>
   )
